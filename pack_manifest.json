@@ -6,7 +6,7 @@
     "modules": [
       {
         "description": "A resourcepack to allow for tameable, rideable withers",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "uuid": "80a7fa5b-4754-4d37-bbee-fd9cc03e09af",
         "type": "data"
       }
