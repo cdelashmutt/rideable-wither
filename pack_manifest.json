@@ -1,0 +1,23 @@
+{
+  "header": {
+    "pack_id": "53e3be21-d75f-4d91-88ae-179125421f4b",
+    "name": "Rideable Wither Pack",
+    "packs_version": "0.0.1",
+    "modules": [
+      {
+        "description": "A resourcepack to allow for tameable, rideable withers",
+        "version": "0.0.1",
+        "uuid": "80a7fa5b-4754-4d37-bbee-fd9cc03e09af",
+        "type": "data"
+      }
+    ],
+    "dependencies": [
+      {
+        "description": "resourcePack.vanilla.description",
+        "version": "0.0.1",
+        "uuid": "53644fac-a276-42e5-843f-a3c6f169a9ab",
+        "type": "resources"
+      }
+    ]
+  }
+}
