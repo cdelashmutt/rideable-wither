@@ -50,7 +50,7 @@
         "must_see": true
       },
       "minecraft:behavior.tempt": {
-        "priority": 5,
+        "priority": 1,
         "speed_multiplier": 1.2,
         "items": [
           "skull"
